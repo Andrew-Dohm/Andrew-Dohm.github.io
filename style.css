@@ -53,7 +53,7 @@ nav ul li a::after{
     content:"";
     width: 0;
     height: 3px;
-    background: #fff;
+    background: #9DD95D;
     position: absolute;
     left: 0;
     bottom: -6px;
@@ -122,7 +122,7 @@ nav ul li a:hover::after{
     content: '';
     width: 0;
     height: 3px;
-    background: #65856B;
+    background: #9DD95D;
     position: absolute;
     left: 0;
     bottom: -8px;
